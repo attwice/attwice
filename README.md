@@ -4,17 +4,17 @@
 <h2>About me</h2>
 <p align="left">I am a passionate, proactive and self-motivated front-end, NFT engineer and 3D specialist. "From design to release!". I have worked in serveral start-up companies, for which I had to work on several kinds of work. I focus mainly on front-end but I had to work on NFT development and some 3D works. I have hands-on experience in developing 3D modeling, NFT design, Unity Games, Online Store, Real Estate Management Platform, Crypto & NFT minting and marketplace Platforms since I had been involved in different start-up companies from various markets - Business, Education, Sports, Social Relation Management.</p>
 <h2>Status</h2>
-<img align="center" src="https://github-profile-trophy.vercel.app/?username=wg-d&column=7&margin-w=20&theme=juicyfresh" alt="Billibear's Github Trophy" />
+<img align="center" src="https://github-profile-trophy.vercel.app/?username=attwice&column=7&margin-w=20&theme=juicyfresh" alt="Billibear's Github Trophy" />
 
- [![GitHub Game of Life](https://github4life.herokuapp.com/wg-d.gif?z=6)](https://github4life.herokuapp.com/wg-d)
+ [![GitHub Game of Life](https://github4life.herokuapp.com/attwice.gif?z=6)](https://github4life.herokuapp.com/attwice)
 
-  |   ![Billibear's GitHub stats](https://github-readme-stats.vercel.app/api?username=wg-d&show_icons=true&count_private=true&theme=nightowl)    |    [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=wg-d&theme=nightowl)](https://git.io/streak-stats)     |
+  |   ![Billibear's GitHub stats](https://github-readme-stats.vercel.app/api?username=attwice&show_icons=true&count_private=true&theme=nightowl)    |    [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=attwice&theme=nightowl)](https://git.io/streak-stats)     |
  | --- | --- |
 
-  |  ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=wg-d&theme=github_dark)   |    ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Billibear&theme=github_dark)     |
+  |  ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=attwice&theme=github_dark)   |    ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Billibear&theme=github_dark)     |
 | --- | --- |
 
-<img alt="Billibear's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=wg-d&bg_color=0c292E&color=a7e787&line=e729c7&point=dfdfdf&hide_border=true&theme=xcode" />
+<img alt="Billibear's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=attwice&bg_color=0c292E&color=a7e787&line=e729c7&point=dfdfdf&hide_border=true&theme=xcode" />
  
 [![Github](https://img.shields.io/github/followers/attwice?label=Follow&style=social)](https://github.com/attwice)
 
