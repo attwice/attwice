@@ -8,19 +8,11 @@
 
  [![GitHub Game of Life](https://github4life.herokuapp.com/attwice.gif?z=6)](https://github4life.herokuapp.com/attwice)
 
-  |   
-
-![Billibear's GitHub stats](https://github-readme-stats.vercel.app/api?username=attwice&show_icons=true&count_private=true&theme=nightowl)    |    [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=attwice&theme=nightowl)](https://git.io/streak-stats)
-
-     |
+  |   ![Billibear's GitHub stats](https://github-readme-stats.vercel.app/api?username=attwice&show_icons=true&count_private=true&theme=nightowl)    |    [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=attwice&theme=nightowl)](https://git.io/streak-stats)    |
 
  | --- | --- |
 
-  |  
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=attwice&theme=github_dark)   |    ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Billibear&theme=github_dark)
-
-     |
+  |  ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=attwice&theme=github_dark)   |    ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Billibear&theme=github_dark)     |
 
 | --- | --- |
 
