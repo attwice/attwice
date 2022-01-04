@@ -11,12 +11,12 @@
   |   ![Billibear's GitHub stats](https://github-readme-stats.vercel.app/api?username=wg-d&show_icons=true&count_private=true&theme=nightowl)    |    [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=wg-d&theme=nightowl)](https://git.io/streak-stats)     |
  | --- | --- |
 
-  |  ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Billibear&theme=github_dark)   |    ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Billibear&theme=github_dark)     |
+  |  ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=wg-d&theme=github_dark)   |    ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Billibear&theme=github_dark)     |
 | --- | --- |
 
 <img alt="Billibear's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Billibear&bg_color=0c292E&color=a7e787&line=e729c7&point=dfdfdf&hide_border=true&theme=xcode" />
  
-[![Github](https://img.shields.io/github/followers/Billibear?label=Follow&style=social)](https://github.com/Billibear)
+[![Github](https://img.shields.io/github/followers/attwice?label=Follow&style=social)](https://github.com/attwice)
 
 <br/>
 <ul>
