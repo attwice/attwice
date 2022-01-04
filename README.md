@@ -11,7 +11,7 @@
   |   ![Billibear's GitHub stats](https://github-readme-stats.vercel.app/api?username=attwice&show_icons=true&count_private=true&theme=nightowl)    |    [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=attwice&theme=nightowl)](https://git.io/streak-stats)     |
  | --- | --- |
 
-  |  ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=attwice&theme=github_dark)   |    ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Billibear&theme=github_dark)     |
+  |  ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=attwice&theme=github_dark)   |    ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=attwice&theme=github_dark)     |
 | --- | --- |
 
 <img alt="Billibear's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=attwice&bg_color=0c292E&color=a7e787&line=e729c7&point=dfdfdf&hide_border=true&theme=xcode" />
