@@ -1,12 +1,12 @@
 <a style="color:green" href="mailto:wonderdream.dev@gmail.com"><h3>Let's keep posted!</h3></a>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=40&center=true&vCenter=true&width=1000&height=100&lines=HELLO,+I+AM+BILLIBEAR!;I+AM+A+PROACTIVE+DEVELOPER.;5+%2B%20YEARS%20OF%20EXPERIENCE;SUPER%20COMMUNICATIVE;WELCOME+TO+MY+PROFILE!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=40&center=true&vCenter=true&width=1000&height=100&lines=HELLO,+I+AM+BILLIBEAR!;I+AM+A+PROACTIVE+DEVELOPER.;6+%2B%20YEARS%20OF%20EXPERIENCE;SUPER%20COMMUNICATIVE;WELCOME+TO+MY+PROFILE!)](https://git.io/typing-svg)
 <h3 align="center">FULL-STACK WEB, NFT & 3D APPLICATION DEVELOPER</h3>
 <h2>About me</h2>
 <p align="left">I am a passionate, proactive and self-motivated front-end, NFT engineer and 3D specialist. "From design to release!". I have worked in serveral start-up companies, for which I had to work on several kinds of work. I focus mainly on front-end but I had to work on NFT development and some 3D works. I have hands-on experience in developing 3D modeling, NFT design, Unity Games, Online Store, Real Estate Management Platform, Crypto & NFT minting and marketplace Platforms since I had been involved in different start-up companies from various markets - Business, Education, Sports, Social Relation Management.</p>
 <h2>Status</h2>
-<img align="center" src="https://github-profile-trophy.vercel.app/?username=Billibear&column=7&margin-w=20&theme=juicyfresh" alt="Billibear's Github Trophy" />
+<img align="center" src="https://github-profile-trophy.vercel.app/?username=wg-d&column=7&margin-w=20&theme=juicyfresh" alt="Billibear's Github Trophy" />
 
- [![GitHub Game of Life](https://github4life.herokuapp.com/Billibear.gif?z=6)](https://github4life.herokuapp.com/Billibear)
+ [![GitHub Game of Life](https://github4life.herokuapp.com/wg-d.gif?z=6)](https://github4life.herokuapp.com/Billibear)
 
   |   ![Billibear's GitHub stats](https://github-readme-stats.vercel.app/api?username=Billibear&show_icons=true&count_private=true&theme=nightowl)    |    [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Billibear&theme=nightowl)](https://git.io/streak-stats)     |
  | --- | --- |
