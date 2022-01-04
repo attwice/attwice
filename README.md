@@ -6,7 +6,7 @@
 <h2>Status</h2>
 <img align="center" src="https://github-profile-trophy.vercel.app/?username=attwice&column=7&margin-w=20&theme=juicyfresh" alt="Billibear's Github Trophy" />
 
- [![GitHub Game of Life](https://github4life.herokuapp.com/Billibear.gif?z=6)](https://github4life.herokuapp.com/attwice)
+ [![GitHub Game of Life](https://github4life.herokuapp.com/attwice.gif?z=6)](https://github4life.herokuapp.com/attwice)
 
   |   ![Billibear's GitHub stats](https://github-readme-stats.vercel.app/api?username=attwice&show_icons=true&count_private=true&theme=nightowl)    |    [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=attwice&theme=nightowl)](https://git.io/streak-stats)     |
  | --- | --- |
