@@ -6,7 +6,7 @@
 <h2>Status</h2>
 <img align="center" src="https://github-profile-trophy.vercel.app/?username=wg-d&column=7&margin-w=20&theme=juicyfresh" alt="Billibear's Github Trophy" />
 
- [![GitHub Game of Life](https://github4life.herokuapp.com/wg-d.gif?z=6)](https://github4life.herokuapp.com/Billibear)
+ [![GitHub Game of Life](https://github4life.herokuapp.com/wg-d.gif?z=6)](https://github4life.herokuapp.com/wg-d)
 
   |   ![Billibear's GitHub stats](https://github-readme-stats.vercel.app/api?username=wg-d&show_icons=true&count_private=true&theme=nightowl)    |    [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=wg-d&theme=nightowl)](https://git.io/streak-stats)     |
  | --- | --- |
@@ -14,7 +14,7 @@
   |  ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=wg-d&theme=github_dark)   |    ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Billibear&theme=github_dark)     |
 | --- | --- |
 
-<img alt="Billibear's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Billibear&bg_color=0c292E&color=a7e787&line=e729c7&point=dfdfdf&hide_border=true&theme=xcode" />
+<img alt="Billibear's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=wg-d&bg_color=0c292E&color=a7e787&line=e729c7&point=dfdfdf&hide_border=true&theme=xcode" />
  
 [![Github](https://img.shields.io/github/followers/attwice?label=Follow&style=social)](https://github.com/attwice)
 
